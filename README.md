@@ -7,9 +7,9 @@ The reference has been taken from: https://wiki.metakgp.org/w/Lingo_of_IIT_Khara
 With any change in the https://wiki.metakgp.org/w/Lingo_of_IIT_Kharagpur , the dictionary can be updated by running the scrapping_to_json.py file. Python with the required libraries must be installed in the machine.
 
 Procedure to run it:
-Step 1: Download the scrapping_to_json.py;
-Step 2: Run in any directory;
-Step 2: Download the main.py in the same directory;
-Step 3: Run main.py, the dictionary file.
+Step 1: git clone github.com/mySpaceHere123/Lingo-The-iitkgp-slang;
+Step 2: cd Lingo-The-iitkgp-slang ;
+Step 3: python scrapping_to_json.py ;
+Step 4: python main.py ; (for macos and linux, use python3)
 
 Note: GUI support will soon be added and any sort of improvement or help is always welcomed
